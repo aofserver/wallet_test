@@ -1,0 +1,21 @@
+{
+  "name": "chomchob_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "decimal.js": "^10.3.1",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "request": "^2.88.2",
+    "request-param": "^1.0.1",
+    "sequelize": "^6.16.1"
+  }
+}
