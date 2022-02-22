@@ -12,6 +12,9 @@ import `Postman.json` or [Postman link](https://www.getpostman.com/collections/7
 # Endpoint
 `api.aofserver.site`
 
+# Database diagram
+![](https://github.com/aofserver/wallet_test/blob/main/src/database.png)
+
 # Enjoy :)
 ![](https://github.com/aofserver/wallet_test/blob/main/src/src.gif)
 
