@@ -13,6 +13,6 @@ import `Postman.json` or [Postman link](https://www.getpostman.com/collections/7
 `api.aofserver.site`
 
 # Enjoy :)
-![](https://github.com/aofserver/wallet_test/blob/main/src/src.jpg)
+![](https://github.com/aofserver/wallet_test/blob/main/src/src.gif)
 
 
