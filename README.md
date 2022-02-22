@@ -8,7 +8,7 @@ nodejs
 edit config in `database/db.js`
 
 # API
-import `Postman.json` or [Postman link](https://www.getpostman.com/collections/7505c811ce4a93ea2f6f)
+import `wallet_test.postman_collection.json` or [Postman link](https://www.getpostman.com/collections/7505c811ce4a93ea2f6f)
 # Endpoint
 `api.aofserver.site`
 
